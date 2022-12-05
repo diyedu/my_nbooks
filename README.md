@@ -1,2 +1,2 @@
 # my_nbooks
-COP1044
+Jupyter notebooks from COP1044
